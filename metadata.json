@@ -1,0 +1,6 @@
+{
+  "name": "AI Innovation Lab",
+  "description": "An AI-powered workspace to generate, evaluate, architect, compare, and roadmap innovative software, IoT, Blockchain, and AI projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
